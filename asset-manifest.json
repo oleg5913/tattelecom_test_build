@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/social_network_demo/static/css/main.ac8a6376.chunk.css",
-    "main.js": "/social_network_demo/static/js/main.a15c770e.chunk.js",
-    "main.js.map": "/social_network_demo/static/js/main.a15c770e.chunk.js.map",
-    "runtime-main.js": "/social_network_demo/static/js/runtime-main.e9ebbd67.js",
-    "runtime-main.js.map": "/social_network_demo/static/js/runtime-main.e9ebbd67.js.map",
-    "static/js/2.02384eed.chunk.js": "/social_network_demo/static/js/2.02384eed.chunk.js",
-    "static/js/2.02384eed.chunk.js.map": "/social_network_demo/static/js/2.02384eed.chunk.js.map",
-    "index.html": "/social_network_demo/index.html",
-    "precache-manifest.7cfcbced33cb3705cc67d506c10d29e5.js": "/social_network_demo/precache-manifest.7cfcbced33cb3705cc67d506c10d29e5.js",
-    "service-worker.js": "/social_network_demo/service-worker.js",
-    "static/css/main.ac8a6376.chunk.css.map": "/social_network_demo/static/css/main.ac8a6376.chunk.css.map",
-    "static/js/2.02384eed.chunk.js.LICENSE.txt": "/social_network_demo/static/js/2.02384eed.chunk.js.LICENSE.txt"
+    "main.css": "/oleg5913/tattelecom_test_build/static/css/main.9ed202b7.chunk.css",
+    "main.js": "/oleg5913/tattelecom_test_build/static/js/main.f6508afa.chunk.js",
+    "main.js.map": "/oleg5913/tattelecom_test_build/static/js/main.f6508afa.chunk.js.map",
+    "runtime-main.js": "/oleg5913/tattelecom_test_build/static/js/runtime-main.68a2fce9.js",
+    "runtime-main.js.map": "/oleg5913/tattelecom_test_build/static/js/runtime-main.68a2fce9.js.map",
+    "static/js/2.12ef8c4e.chunk.js": "/oleg5913/tattelecom_test_build/static/js/2.12ef8c4e.chunk.js",
+    "static/js/2.12ef8c4e.chunk.js.map": "/oleg5913/tattelecom_test_build/static/js/2.12ef8c4e.chunk.js.map",
+    "index.html": "/oleg5913/tattelecom_test_build/index.html",
+    "static/css/main.9ed202b7.chunk.css.map": "/oleg5913/tattelecom_test_build/static/css/main.9ed202b7.chunk.css.map",
+    "static/js/2.12ef8c4e.chunk.js.LICENSE.txt": "/oleg5913/tattelecom_test_build/static/js/2.12ef8c4e.chunk.js.LICENSE.txt",
+    "static/media/Album.css": "/oleg5913/tattelecom_test_build/static/media/album.4653cc12.jfif"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9ebbd67.js",
-    "static/js/2.02384eed.chunk.js",
-    "static/css/main.ac8a6376.chunk.css",
-    "static/js/main.a15c770e.chunk.js"
+    "static/js/runtime-main.68a2fce9.js",
+    "static/js/2.12ef8c4e.chunk.js",
+    "static/css/main.9ed202b7.chunk.css",
+    "static/js/main.f6508afa.chunk.js"
   ]
 }
